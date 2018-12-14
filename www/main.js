@@ -11,7 +11,7 @@ $.ajaxSetup({
 var TITLE = "BaseALT News";
 //RSS url
 //
-var RSS = "https://news.yandex.ru/music.html?from=rss";
+var RSS = "https://news.yandex.ru/music.rss";
 //http://www.mforum.ru/rss/news.xml";
 //Stores entries
 var entries = [];
